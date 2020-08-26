@@ -20,6 +20,8 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
 
+        //from:https://sailpointworks.blogspot.com/search/label/API
+
         ist propertiesToClean = new ArrayList();
         propertiesToClean.add("id");
         propertiesToClean.add("created");
